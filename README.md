@@ -19,7 +19,7 @@ Files are named using the pattern `<contest_number><problem_letter>.cpp`.
 ## Usage
 
 1. Clone the repository:  
-   ```bash
+```bash
    git clone https://github.com/your‑username/codeforces‑solutions.git
    cd codeforces‑solutions
 ````
